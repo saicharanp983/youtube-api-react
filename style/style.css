@@ -1,0 +1,21 @@
+.list-group-item{
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.list-group{
+    padding-top: 10px;
+}
+
+.list-group-item:hover{
+    background-color: #eee;
+}
+
+.search-bar{
+    margin: 20px;
+    text-align: center
+}
+
+.search-bar input{
+    width: 75%
+}
